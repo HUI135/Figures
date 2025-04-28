@@ -43,7 +43,7 @@ from forestplot_generator_advanced import generate_advanced_forestplot
 <img src="outputs/sample_forestplot_basic.png" width="600">
 
 ### Advanced Forest Plot
-<img src="outputs/sample_forestplot_advanced.png" width="600">
+<img src="outputs/sample_forestplot_subgroup.png" width="600">
 
 ---
 

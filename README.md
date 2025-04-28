@@ -40,10 +40,10 @@ from forestplot_generator_advanced import generate_advanced_forestplot
 ## 🖼️ 샘플 결과물
 
 ### Basic Forest Plot
-<img src="outputs/sample_basic_forestplot.png" width="600">
+<img src="outputs/sample_forestplot_basic.png" width="600">
 
 ### Advanced Forest Plot
-<img src="outputs/sample_advanced_forestplot.png" width="600">
+<img src="outputs/sample_forestplot_advanced.png" width="600">
 
 ---
 
